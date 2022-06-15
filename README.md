@@ -3,7 +3,7 @@
 My favorite stack is .NET (C#) and Java. Also Python deserves my attention for its flexibility and power.
 - 🌱 I’m currently learning concurrency in c# so i'm reading the book "Concurrency in C# cookbook".  
 Before that I read "CLR via C#" and "Async in C# 5.0". In the future, I plan to read "Designing Data-Intensive Applications".  
-Currently I’m working on my own public [project](https://github.com/Raleose/Epic.Heroes.War.Hack) as well as my private project.  
+Currently I’m working on my own public [project](https://github.com/Raleose/Epic.Heroes.War.Hack) as well as my private project (Thank you, [my friend](https://github.com/DmitryXronos)).  
 Unfortunately, my private project is hidden from public users because it must not fall into the wrong hands. But you can still check out my public project pinned in my main page.  
 - 📫 How to reach me:  
 email: 9263586187@mail.ru  
