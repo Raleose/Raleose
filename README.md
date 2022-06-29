@@ -9,8 +9,8 @@ Unfortunately, my private project is hidden from public users because it must no
 email: 9263586187@mail.ru  
 telegram: @raleose  
 - My stats:  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raleose&count_private=true&show_icons=true&theme=maroongold)](https://github.com/raleose/github-readme-stats)
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raleose&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/raleose/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raleose&theme=great-gatsby)](https://github.com/raleose/github-readme-stats)
 <!---
 Raleose/Raleose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
