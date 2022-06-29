@@ -8,6 +8,8 @@ Unfortunately, my private project is hidden from public users because it must no
 - 📫 How to reach me:  
 email: 9263586187@mail.ru  
 telegram: @raleose  
+- My stats:  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raleose&count_private=true&show_icons=true&theme=maroongold)](https://github.com/raleose/github-readme-stats)
 
 <!---
 Raleose/Raleose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
